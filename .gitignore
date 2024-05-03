@@ -22,3 +22,7 @@
 # Ignore all local history of files
 .history
 .ionide
+.composer
+.bash_history
+.env
+.DS_Store
